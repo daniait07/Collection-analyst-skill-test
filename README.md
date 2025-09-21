@@ -89,13 +89,14 @@ Point: Нельзя не заметить, что −5-5 падает в кон�
 - Код предоставлен в разделе [Задача 3.cpp](https://github.com/daniait07/Collection-analyst-skill-test/blob/main/Задача%203.sql)
 
 - Итоговый результат:
-<img width="740" height="133" alt="image" src="https://github.com/user-attachments/assets/d121b14a-1037-4b9e-bf7a-baa04af85b00" />
+<img width="750" height="144" alt="image" src="https://github.com/user-attachments/assets/85aff6a8-619f-4cda-85ab-78827c328e54" />
 
 ### Задача 4
 
 - Код предоставлен в разделе [Задача 4.cpp](https://github.com/daniait07/Collection-analyst-skill-test/blob/main/Задача%204.sql)
 
 - Итоговый результат:
-<img width="573" height="366" alt="image" src="https://github.com/user-attachments/assets/52b56850-981f-46d3-9a8c-1c59ba0461cb" />
+<img width="568" height="361" alt="image" src="https://github.com/user-attachments/assets/925a9eb0-9cc0-4d6f-85cd-5f97679adb0b" />
+
 
 ## Контакт для связи tg: night_darkness_7
